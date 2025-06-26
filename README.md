@@ -1,4 +1,3 @@
-
 ````markdown
 # FHttp
 
@@ -12,10 +11,9 @@ A lightweight, experimental Java HTTP server library
 - Multicore by default
 - Ideal for writing high performance HTTP services
 
-
 ## 📦 Installation
 
-This library is hosted on [JitPack](https://jitpack.io).
+This library is hosted on [JitPack](https://jitpack.io/#fuji-184/FHttp).
 
 ### 1. Add the JitPack repository to your project's `pom.xml`:
 
@@ -58,4 +56,3 @@ public class Main {
     }
 }
 ```
-
