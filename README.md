@@ -1,4 +1,3 @@
----
 
 ````markdown
 # FHttp
@@ -13,7 +12,6 @@ A lightweight, experimental Java HTTP server library
 - Multicore by default
 - Ideal for writing high performance HTTP services
 
----
 
 ## 📦 Installation
 
