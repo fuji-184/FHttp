@@ -1,3 +1,4 @@
+package fuji.fhttp;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.PooledByteBufAllocator;

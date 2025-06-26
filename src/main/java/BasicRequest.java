@@ -1,3 +1,4 @@
+package fuji.fhttp;
 
 import io.netty.handler.codec.http.HttpHeaders;
 import io.netty.handler.codec.http.HttpRequest;
