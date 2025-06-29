@@ -24,7 +24,6 @@ This library is hosted on [JitPack](https://jitpack.io/#fuji-184/FHttp).
   </repository>
 </repositories>
 ```
-````
 
 ### 2. Add the `FHttp` dependency:
 
@@ -36,7 +35,6 @@ This library is hosted on [JitPack](https://jitpack.io/#fuji-184/FHttp).
 </dependency>
 ```
 
----
 
 ## 🚀 Getting Started
 
